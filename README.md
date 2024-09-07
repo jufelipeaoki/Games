@@ -21,5 +21,5 @@ Todo mundo é bem-vindo! Se você quiser adicionar novos jogos, melhorar a busca
 
 **Vamos juntos criar a maior comunidade de gamers do mundo!**
 
-**[Seu nome]** 
-**[Seu link para o GitHub]**
+**Juan Felipe Aoki Guna** 
+**https://github.com/jufelipeaoki**
