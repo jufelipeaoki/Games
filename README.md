@@ -23,3 +23,5 @@ Todo mundo é bem-vindo! Se você quiser adicionar novos jogos, melhorar a busca
 
 **Juan Felipe Aoki Guna** 
 **https://github.com/jufelipeaoki**
+**link do projeto no Ar: https://games-dusky-iota.vercel.app/**
+**Palavra chave para o campo de Busca : Ação**
